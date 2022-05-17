@@ -43,7 +43,5 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quangchien99&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangchien99)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
