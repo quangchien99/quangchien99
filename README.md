@@ -16,7 +16,7 @@
 
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 
-- 🔭 I’m working as an Android Developer in FPT Software.
+- 🔭 I’m working as an Android Developer.
 - 🌱 Dreamer.
 - ⚡  Traveling and Exploring our big big world.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-quangchien99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/quangchien99/)
