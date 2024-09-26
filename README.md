@@ -7,7 +7,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=quangchien99&style=flat-square&color=blue" alt=""></p>
 
 <div align="center">
-<h3> :hatching_chick: Quang Chien Pham    |     💻 Software Engineer - Android Developer    |    🌏 Hanoi, Vietnam </h3> 
+<h3> :hatching_chick: Quang Chien Pham    |     💻 Android Engineer    |    🌏 Hanoi, Vietnam </h3> 
 </div>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
