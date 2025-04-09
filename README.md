@@ -1,3 +1,5 @@
+<h1 align="center">Hi<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Chien</h1>
+
 <div align="center">
   <a href="https://linkedin.com/in/quangchien99" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-151515?logo=linkedin&logoColor=0A66C2&style=for-the-badge" alt="LinkedIn" />
