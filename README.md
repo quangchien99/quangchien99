@@ -1,43 +1,58 @@
+# 👨‍💻 About Me
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/quangchien99/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+⚡ Android Engineer 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=quangchien99&style=flat-square&color=blue" alt=""></p>
+## 💻 Tech Stack
 
-<div align="center">
-<h3> :hatching_chick: Quang Chien Pham    |     💻 Android Engineer    |    🌏 Hanoi, Vietnam </h3> 
-</div>
+#### Languages
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+![Kotlin](https://img.shields.io/badge/-kotlin-151515?style=for-the-badge&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-151515?style=for-the-badge&logo=java)
+![Dart](https://img.shields.io/badge/-Dart-151515?style=for-the-badge&logo=dart)
 
-### :woman_technologist: &nbsp;About Me :
+#### Frameworks/Libraries
 
-I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-quangchien99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/quangchien99/)
+![Android](https://img.shields.io/badge/-Android-151515?style=for-the-badge&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-151515?style=for-the-badge&logo=jetpack-compose)
+![Compose Multiplatform](https://img.shields.io/badge/-Compose%20Multilplatform-151515?style=for-the-badge&logo=jetpack-compose)
+![Kotlin Multiplatform Mobile](https://img.shields.io/badge/-KMM-151515?style=for-the-badge&logo=kotlin)
+![Flutter](https://img.shields.io/badge/-Flutter-151515?style=for-the-badge&logo=flutter)
 
----
+#### App Architectures
 
-### 🛠 &nbsp;Languages and Tools :
+![MVVM](https://img.shields.io/badge/-MVVM-151515?style=for-the-badge&logo=mvvm)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-151515?style=for-the-badge&logo=clean-architecture)
+![Multi modules](https://img.shields.io/badge/-Multil%20Modules-151515?style=for-the-badge&logo=modules)
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" **alt="Confluence" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-</p>
+#### Database
 
----
+![Firebase](https://img.shields.io/badge/-Firebase-151515?style=for-the-badge&logo=firebase&logoColor=white)
+![Room](https://img.shields.io/badge/-Room-151515?style=for-the-badge&logo=room&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-151515?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔥 &nbsp; My Stats :
+#### IDEs
+
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-151515?style=for-the-badge&logo=android-studio&logoColor=white)
+![XCode](https://img.shields.io/badge/-Xcode-151515?style=for-the-badge&logo=xcode&logoColor=white)
+
+#### Version Control
+
+![Git](https://img.shields.io/badge/-Git-151515?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-151515?style=for-the-badge&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-151515?style=for-the-badge&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-151515?style=for-the-badge&logo=bitbucket)
+
+
+## 📊 GitHub Stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quangchien99&theme=dark&background=000000)](https://git.io/streak-stats)
 
----
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HameezExE/HameezExE/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=quangchien99&color=6B2EE4&style=for-the-badge&label_color=151515" alt="GitHub Profile Views" />
+</div>
 
