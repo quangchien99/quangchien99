@@ -1,6 +1,15 @@
+<div align="center">
+  <a href="https://linkedin.com/in/quangchien99" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-151515?logo=linkedin&logoColor=0A66C2&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chienpq17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-151515?logo=gmail&logoColor=EA4335&style=for-the-badge" alt="Gmail" />
+  </a>
+</div>
+
 # 👨‍💻 About Me
 
-⚡ Android Engineer 
+⚡ Android Enthusiast.<br>🌱 I’m currently learning Compose Multiplatform, Kotlin Multiplatform Mobile (KMM).
 
 ## 💻 Tech Stack
 
