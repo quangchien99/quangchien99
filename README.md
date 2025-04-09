@@ -11,7 +11,7 @@
 
 # 👨‍💻 About Me
 
-⚡ Android Enthusiast.<br>🌱 I’m currently learning Compose Multiplatform, Kotlin Multiplatform Mobile (KMM).
+⚡ Android Enthusiast.<br>🌱 I’m currently doing & learning Compose Multiplatform, Kotlin Multiplatform Mobile (KMM).
 
 ## 💻 Tech Stack
 
