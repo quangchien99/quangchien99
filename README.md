@@ -11,7 +11,30 @@
 
 # 👨‍💻 About Me
 
-⚡ Android Enthusiast.<br>🔭 I specialize in developing products for the Google Play Store.<br>🌱 I’m currently doing & learning Compose Multiplatform, Kotlin Multiplatform Mobile (KMM).
+With **over 5 years of experience** in Android development, I specialize in building high-quality, scalable mobile applications that balance elite user experience with business performance. I am a software craftsman dedicated to clean architecture and modern mobile technologies.
+
+- ⚡ **Current Focus:** Architecting with **Compose Multiplatform (CMP)** and **Kotlin Multiplatform (KMM)**.
+- 🔭 **Product Impact:** Expert in scaling Google Play Store apps with **1M+ downloads**.
+- 🌱 **Tech Philosophy:** Driven by **SOLID principles**, software craftsmanship, and continuous learning.
+
+---
+
+### 📈 Google Play Success & Product Lifecycle
+I manage the full app lifecycle—from architecture and testing to global publishing and staged rollouts. I specialize in performance optimization and ensuring technical resilience for applications operating at a massive scale.
+
+### 🏗️ Architectural Strength & Modern Tech
+I design maintainable, testable systems centered around **MVVM Clean Architecture**. My core toolkit includes:
+* **UI & Concurrency:** Jetpack Compose & Kotlin Coroutines.
+* **Multiplatform:** Kotlin Multiplatform (KMM) & Compose Multiplatform (CMP).
+* **Cross-Platform:** Proficient in Flutter for versatile mobile solutions.
+
+### ⚙️ Software Craftsmanship
+Guided by proven design patterns, I take pride in delivering reliable and efficient solutions. With a strong foundation in **OOP, Data Structures, and Algorithms**, I enjoy tackling complex technical challenges and optimizing system performance.
+
+### 🤝 Collaboration & Continuous Growth
+I thrive in **Agile/SCRUM** environments, using **Git** and iterative workflows to drive progress. I am passionate about staying ahead of emerging technologies and exploring new frameworks to push the boundaries of mobile development.
+
+---
 
 ## 💻 Tech Stack
 
