@@ -11,16 +11,32 @@
 
 # 👨‍💻 About Me
 
-With **over 5 years of experience** in Android development, I specialize in building high-quality, scalable mobile applications that balance elite user experience with business performance. I am a software craftsman dedicated to clean architecture and modern mobile technologies.
+With **over 6 years of experience** in Android development, I specialize in building high-quality, scalable mobile applications that balance elite user experience with business performance. I am a software craftsman dedicated to clean architecture, modern mobile technologies, and AI-augmented development workflows.
 
-- ⚡ **Current Focus:** Architecting with **Compose Multiplatform (CMP)** and **Kotlin Multiplatform (KMM)**.
-- 🔭 **Product Impact:** Expert in scaling Google Play Store apps with **1M+ downloads**.
-- 🌱 **Tech Philosophy:** Driven by **SOLID principles**, software craftsmanship, and continuous learning.
+- ⚡ **Current Focus:** Architecting with **Compose Multiplatform (CMP)** and **Kotlin Multiplatform (KMM)**, leveraging **AI tools** for enhanced development velocity.
+- 🔭 **Product Impact:** Expert in scaling Google Play Store apps. Independently built and shipped an indie application that achieved **1M+ downloads**, demonstrating full-cycle product ownership.
+- 🧠 **AI Mastery:** Proficient in **Claude**, **Cursor**, **Codex**, and advanced knowledge of **AI security**, **MCP (Model Context Protocol)**, and **agentic systems**.
+- 🌱 **Tech Philosophy:** Driven by **SOLID principles**, software craftsmanship, continuous learning, and responsible AI integration.
 
 ---
 
 ### 📈 Google Play Success & Product Lifecycle
-I manage the full app lifecycle—from architecture and testing to global publishing and staged rollouts. I specialize in performance optimization and ensuring technical resilience for applications operating at a massive scale.
+I manage the full app lifecycle—from architecture and testing to global publishing and staged rollouts. I specialize in performance optimization and ensuring technical resilience for applications operating at massive scale.
+
+### 🚀 AI-Powered Development
+I leverage cutting-edge AI tools to accelerate development while maintaining code quality and security standards:
+* **Claude & Cursor:** AI-assisted coding, architecture design, and problem-solving.
+* **Codex Integration:** Code generation and automation for rapid prototyping.
+* **MCP Framework:** Building intelligent, context-aware development systems.
+* **AI Security:** Deep expertise in securing AI integrations and protecting sensitive data.
+
+### 🧠 AI Configuration, Rules & Skills Mastery
+* **Advanced Prompt Engineering:** Expert at crafting system prompts, few-shot examples, and context optimization for consistent, high-quality AI outputs.
+* **AI Workflow Automation:** Proficient in configuring intelligent development workflows using Claude, Cursor, and custom MCP servers for seamless integration into build pipelines.
+* **Quality Gates & Validation:** Established best practices for validating AI-generated code, unit testing outputs, and ensuring architectural compliance before deployment.
+* **AI Security & Privacy:** Mastered techniques for secure AI integration—managing credentials, protecting sensitive data, and implementing responsible AI guardrails in production systems.
+* **Custom Skills & Rules:** Expertise in building custom AI behaviors, defining organizational coding standards through AI configuration, and establishing team-wide AI development rules.
+* **Model Optimization:** Deep knowledge of selecting appropriate AI models for different tasks, optimizing token usage, and balancing speed vs. quality trade-offs.
 
 ### 🏗️ Architectural Strength & Modern Tech
 I design maintainable, testable systems centered around **MVVM Clean Architecture**. My core toolkit includes:
@@ -32,7 +48,7 @@ I design maintainable, testable systems centered around **MVVM Clean Architectur
 Guided by proven design patterns, I take pride in delivering reliable and efficient solutions. With a strong foundation in **OOP, Data Structures, and Algorithms**, I enjoy tackling complex technical challenges and optimizing system performance.
 
 ### 🤝 Collaboration & Continuous Growth
-I thrive in **Agile/SCRUM** environments, using **Git** and iterative workflows to drive progress. I am passionate about staying ahead of emerging technologies and exploring new frameworks to push the boundaries of mobile development.
+I thrive in **Agile/SCRUM** environments, using **Git** and iterative workflows to drive progress. I am passionate about emerging technologies, AI advancements, and exploring new frameworks to push the boundaries of mobile development.
 
 ---
 
@@ -64,6 +80,13 @@ I thrive in **Agile/SCRUM** environments, using **Git** and iterative workflows 
 ![Room](https://img.shields.io/badge/-Room-151515?style=for-the-badge&logo=room&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-151515?style=for-the-badge&logo=sqlite&logoColor=white)
 
+#### AI & Development Tools
+
+![Claude](https://img.shields.io/badge/-Claude-151515?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-151515?style=for-the-badge&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-151515?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP%20Protocol-151515?style=for-the-badge&logoColor=white)
+
 #### IDEs
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-151515?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -89,4 +112,3 @@ I thrive in **Agile/SCRUM** environments, using **Git** and iterative workflows 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=quangchien99&color=6B2EE4&style=for-the-badge&label_color=151515" alt="GitHub Profile Views" />
 </div>
-
